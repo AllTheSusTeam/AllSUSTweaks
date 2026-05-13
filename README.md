@@ -1,2 +1,2 @@
-# AllSUSTweaks
-The mod designed for the AllTheSus modpack
+# TechSuperTweaks-TST
+The mod designed for the techrevolut modpack
